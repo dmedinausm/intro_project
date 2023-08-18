@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "iwg_project",
+			"path": "../../iwg_project"
+		}
+	],
+	"settings": {}
+}
